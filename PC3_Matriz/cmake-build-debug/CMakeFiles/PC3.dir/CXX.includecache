@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/PC3/Matriz.h
+
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/PC3/main.cpp
+iostream
+-
+Matriz.h
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/PC3/Matriz.h
+

@@ -1,0 +1,3 @@
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/PC3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/PC3/cmake-build-debug/CMakeFiles/PC3.dir
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/PC3/cmake-build-debug/CMakeFiles/edit_cache.dir

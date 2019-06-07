@@ -1,0 +1,3 @@
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/STL_deque/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/STL_deque/cmake-build-debug/CMakeFiles/STL_deque.dir
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/STL_deque/cmake-build-debug/CMakeFiles/edit_cache.dir

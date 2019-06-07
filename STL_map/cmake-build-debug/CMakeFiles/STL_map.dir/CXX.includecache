@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/STL_map/STL_map.h
+vector
+-
+
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/STL_map/main.cpp
+iostream
+-
+map
+-
+fstream
+-
+sstream
+-
+STL_map.h
+/home/ariana/UTEC/POO 2/PCs/practica-3-ArianaVillegas/STL_map/STL_map.h
+
