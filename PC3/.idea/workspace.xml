@@ -9,7 +9,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f27ae0be-64b7-45e7-8bf9-37890b9fdda8" name="Default Changelist" comment="" />
+    <list default="true" id="f27ae0be-64b7-45e7-8bf9-37890b9fdda8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../STL_map/STL_map.h" beforeDir="false" afterPath="$PROJECT_DIR$/../STL_map/STL_map.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL_map/cmake-build-debug/CMakeFiles/STL_map.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../STL_map/cmake-build-debug/CMakeFiles/STL_map.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STL_map/cmake-build-debug/STL_map" beforeDir="false" afterPath="$PROJECT_DIR$/../STL_map/cmake-build-debug/STL_map" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

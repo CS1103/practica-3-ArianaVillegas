@@ -11,9 +11,9 @@ class Seccion{
     std::map<std::string,int> seccion;
 public:
     Seccion(){};
-    void llenarSeccion(std::string){
+    void llenarSeccion(std::string s){
         std::vector<std::string> opcion;
-        std::ifstream archivo("string");
+        std::ifstream archivo(s);
         if(archivo.is_open()){
             while (archivo.eof()) {
                 std::string line;
@@ -33,7 +33,7 @@ public:
                     }
                     else{
                         for(int i=0;i<seccion.size();i++){
-                            std::cout<<opcion[1]<<"--->"<<seccion[opcion[1]];
+                            std::cout<<opcion[1]<<"--->"<<seccion[opcion[1]]<<'\n';
                         }
                     }
                 }
